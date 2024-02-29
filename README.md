@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I am a developer or something like that 🦂🦂
+---
+#### I wanna upload my  projects, ideas and... that's all.🐌🐌
 
 <!--
 **StarSer1/StarSer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
